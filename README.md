@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fedi BOUABID</h1>
-<h3 align="center">A passionate AI developer from Tunisia</h3>
+<h3 align="center">A passionate AI & WEB developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **Angular and Springboot**
 
