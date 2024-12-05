@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fedi BOUABID</h1>
 <h3 align="center">A passionate AI & WEB developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Angular and NestJS**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **mohamedfedi.bouabid@insat.ucar.tn**
 
