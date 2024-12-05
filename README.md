@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 📫 How to reach me **mohamedfedi.bouabid@insat.ucar.tn**
+- 📫 How to reach me **mohamedfedi.bouabid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
